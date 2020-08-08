@@ -2,7 +2,7 @@ import React from 'react';
 import TodoList from "./components/TodoList";
 import TodoForm from "./components/TodoForm";
 
-//import "./components/Todo.css";
+import "./components/Todo.css";
 
 const tasks = 
   [
